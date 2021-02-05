@@ -5,4 +5,4 @@ This is image slider which works on desktops and on mobile.
 - JAVASCRIPT
 ---
 
-![sample img preview](./img/capture.png)
+![sampleimgpreview](./img/capture.png)
